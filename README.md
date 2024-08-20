@@ -1,0 +1,1 @@
+for image after before = npm i react-compare-image
