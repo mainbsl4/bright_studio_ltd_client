@@ -26,11 +26,16 @@ export default function WHYCHOOSEUS() {
           <Accordion
             expanded={expanded === "panel1"}
             onChange={handleChange("panel1")}
+           
           >
             <AccordionSummary
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel1bh-content"
               id="panel1bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{ flexShrink: 0 }}>
               Reasonable Cost
@@ -51,6 +56,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel2bh-content"
               id="panel2bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               Exclusive Discount On 1st Order
@@ -71,6 +80,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel3bh-content"
               id="panel3bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               3 Step Quality Control
@@ -91,6 +104,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel4bh-content"
               id="panel4bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               Easy Permanent System
@@ -112,6 +129,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel1bh-content"
               id="panel1bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               100% Money Back Guaranteed
@@ -132,6 +153,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel2bh-content"
               id="panel2bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               Free Trial Service
@@ -152,6 +177,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel3bh-content"
               id="panel3bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               Bulk Amount Discountee
@@ -172,6 +201,10 @@ export default function WHYCHOOSEUS() {
               expandIcon={<Icon icon="uiw:down" />}
               aria-controls="panel4bh-content"
               id="panel4bh-header"
+              sx={{
+                background:"#377BBF",
+                color:"white",
+              }}
             >
               <Typography sx={{  flexShrink: 0 }}>
               Satisfaction Guaranteed

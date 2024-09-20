@@ -29,8 +29,8 @@ export default function OUROUTSTANDING() {
   return (
     <div className=" container mx-auto my-5">
       <div className="lg:px-12 flex justify-center items-center flex-col">
-        <p>High-End Retouch</p>
-        <h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, quo?</h3>
+        <p className="text-xl">PHOTO RETOUCHING SERVICE PROVIDER</p>
+        <h3>OUR OUTSTANDING SERVICES WILL HELP YOUR BUSINESS GROWTH</h3>
       </div>
       <div style={swiperStyle} className="swiperx">
       <Swiper

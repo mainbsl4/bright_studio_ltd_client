@@ -54,7 +54,7 @@ export default function ImageGallery() {
       <div className="lg:px-12 py-5 flex justify-center items-center flex-col">
         <p>WE ARE SPECIALIZED IN HIGH-QUALITY E-COMMERCE IMAGE EDITING SERVICES</p>
         <h3>
-        Our Recent Works
+        OUR RECENT WORKS
         </h3>
       </div>
       <div className="  grid grid-cols-2 md:grid-cols-4 gap-4">

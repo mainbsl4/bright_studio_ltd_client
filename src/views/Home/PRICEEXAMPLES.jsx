@@ -4,13 +4,13 @@ export default function PRICEEXAMPLES() {
   return (
     <div className="container mx-auto mt-1">
       <div className="lg:px-12 py-5 flex justify-center items-center flex-col">
-        <h3>Price examples</h3>
+        <h3>PRICE EXAMPLES</h3>
         <p>
         Please note that the prices below are for guidance only. For all clients, we calculate a price per image based on the specific job task.
         </p>
       </div>
       <div className="grid lg:grid-cols-4 gap-3 md:grid-cols-2 justify-center">
-        <div className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow">
+        <div className="max-w-sm p-6 bg-white border border-[rgb(204_204_204)]  rounded-lg shadow ">
           <svg
             className="w-7 h-7 text-gray-500  mb-3"
             aria-hidden="true"
@@ -26,7 +26,7 @@ export default function PRICEEXAMPLES() {
             </h5>
           </a>
           <p>
-            FROM EUR{" "}
+            FROM EUR
             <span className="border px-2 pt-1 text-2xl bg-black text-white rounded-md">
               0.50
             </span>{" "}

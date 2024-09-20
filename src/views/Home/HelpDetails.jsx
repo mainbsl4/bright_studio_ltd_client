@@ -3,13 +3,14 @@ import { Icon } from "@iconify/react/dist/iconify.js";
 export default function HelpDetails() {
   return (
     <div>
-      <div className="w-full p-4 my-[100px] text-center bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
+      <div className="w-full md:px-4 md:py-16 my-[100px] text-center bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
+      <p className="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">
+          Hand Made Clipping Path Service Provider Company
+        </p>
         <h5 className="mb-2 text-3xl font-bold text-gray-900 dark:text-white">
           24/7- Support & Service
         </h5>
-        <p className="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">
-          Hand Made Clipping Path Service Provider Company
-        </p>
+      
         <p className="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">
           Our customer support team is available 24 hours a day and you can
           expect a replay within 15 minutes! Now you can contact us at any time
