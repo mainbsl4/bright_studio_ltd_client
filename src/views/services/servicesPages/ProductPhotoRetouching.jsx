@@ -25,18 +25,19 @@ export default function ProductPhotoRetouching() {
     </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          The photos those have faded and you want to make it looks good as the
+          first time the photos were taken. This is the great idea since the old
+          photos are commonly faded, darkened and probably discolored with age
+          too. By using latest software, we will help you to repair and restore
+          your precious photographs easily. Photographs are a great way to keep
+          those special memories, wedding, anniversary, birth, and family or
+          friends reunion and many others. Sometimes however, those precious
+          memories are damaged or degrade over time due to dereliction of
+          photos. Earlier, when there were no restoration services available,
+          the changes were made to the original photograph and even till today
+          it’s the preferred method for preserving old, historical photographs.
+          But nowadays, it’s easier to work on the restoration part, as the
+          changes are made to the copy of the original photo.
         </p>
       </div>
     </div>

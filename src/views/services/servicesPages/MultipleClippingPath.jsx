@@ -25,18 +25,17 @@ export default function MultipleClippingPath() {
       </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          Multi Clipping Path is used for those images that require isolation of
+          parts. It is done to separate some parts of the image to later change
+          it in Photoshop. We are reliable and skilled clipping path service
+          provider from Bangladesh that provide image background removal
+          services with perfection. Do not take the pressures of editing or
+          clipping images all by yourself. We are here to give you the best
+          multi clipping path services with utmost care. Let us omit those
+          improper outlining made on the product photographs and save yourself
+          from getting adverse effect on your growth graph. Our way of
+          presenting your image is out of ordinary as we can give clarity to
+          your photographs by focusing on the object you need to market.
         </p>
       </div>
     </div>

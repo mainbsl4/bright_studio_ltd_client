@@ -24,18 +24,19 @@ export default function ImageMasking() {
     </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          Clipping Mask by Photoshop requires brilliancy in techniques and
+          skills in precise image masking tasks like Erasing and Regular
+          Masking, Channel Masking, Color Masking, Color Masking, Layer Masking,
+          Transparency Masking and Alpha Masking. Providing accurate masking to
+          any kind of complex images are our expertise and that is why we are
+          confidently serving all the industry leaders like Print Media,
+          Advertising Agency, Press, Store Chains, Franchise Companies, Online
+          Retailers and so on. Our experienced and world-class designers ensure
+          precise isolation of images with subtle edges along with covering all
+          the aspects of Photoshop image masking services. Our photo masking
+          technology will help you to reduce your overall cost by processing
+          bulk amount of photos at a time at precisely and within your lowest
+          budget ever.
         </p>
       </div>
     </div>

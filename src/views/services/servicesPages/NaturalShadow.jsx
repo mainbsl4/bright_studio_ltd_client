@@ -24,18 +24,16 @@ export default function NaturalShadow() {
     </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          Shadowing an image can double the beauty of an image and give natural
+          essence to it, that’s why you’ll find shadowing very common and
+          muchpracticed image manipulation technique. In ecommerce site
+          shadowing is needed so frequently to bring natural mood to the
+          products. We basically deal with two types of image shadowingdrop
+          shadowing and reflection shadowing and for both of the services we
+          have costeffective packages for you. And we do say itwe’re definitely
+          the best provider of this service. Why? Because our highly
+          professional art directors use the latest software’s for shadowing the
+          images our clients give to us.
         </p>
       </div>
     </div>

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import ReactCompareImage from "react-compare-image";
 import "../../../assets/css/beforeafter.css";
 
@@ -23,21 +24,42 @@ export default function D360PackshotRetouching() {
         {/* <p className=" text-justify lg:px-3">
       {TextBody}
     </p> */}
-        <p className=" text-justify lg:px-3">
+        <div className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
-        </p>
+          <p>
+            Professional photo restoration is another area of expertise at
+            Bright studio ltd. Our Photo Restoration Service is also our most
+            popular level. We restore any type of photograph that has been
+            harmed by fire, light, water, mold, animals, or kids. Just give us
+            the area of the image that matches the original. Our specialists are
+            highly regarded for their work in advanced photo restoration.
+            Unwavering excellent quality and service are the cornerstones of our
+            productivity. Our devoted and effective team restores photos for
+            individuals, organizations, and outstanding event photos using the
+            most cutting-edge hardware & software. We can give you a duplicate
+            of your damaged image that appears to be the original using digital
+            technology, professionalism, experience, and background in fine art.
+            You won’t notice even the slightest difference from the original
+            image thanks to the excellent skill of our team for digital photo
+            restoration service.
+            <br />
+            For commercial photographs, we digitally alter or restore vintage
+            photos. We can also restore damaged photos to their original state
+            by using the original photographs that were previously captured.
+            <br />
+            The computer has no magic but artists use a computer as the artist's
+            tool. We employ the kind of artists who can envision your needs.
+            When you compare it to other expenses, especially those related to a
+            memorable event, you will see that it is more affordable than you
+            initially thought. Your enjoyable time can be forgotten forever,
+            however, these pictures can help you relive that happy moment.
+            <br />
+            Simply upload these types of images to get an estimate of the cost.
+            Some photos contain special recollections that are the only photos
+            that have survived for many years in your family but are in poor
+            condition. We'll send you the updated pictures back.
+          </p>
+        </div>
       </div>
     </div>
   );

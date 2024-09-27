@@ -22,21 +22,25 @@ export default function SymmetricShapingWrinklesRemove() {
         {/* <p className=" text-justify lg:px-3">
       {TextBody}
     </p> */}
-        <p className=" text-justify lg:px-3">
+        <div className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
-        </p>
+          <p>Bright Studio Ltd is known among customers as a business that is aware of the strategy needed to produce a high-quality Symmetric Shaping & Wrinkles Remove for clothing.
+          <br />
+Anyone who needs Symmetric Shaping & Wrinkles Remove services can get them from us. The following list includes some of the industries that frequently need Symmetric Shaping & Wrinkles Remove services.
+</p>
+<b >GARMENTS INDUSTRY:</b>
+<p>Take our ghost mannequin if you work in the garment industry.</p>
+<b>APPAREL INDUSTRY:</b>
+<p>Taking our ghost mannequin is a good idea if you work in the apparel industry</p>
+<b>ECOMMERCE INDUSTRIES:</b>
+<p>Service for neck joints is crucial for e-commerce sectors. Therefore, if you run an online store or work there, you must perform a lot of editing every day. Many of the photographs you edit on a daily basis will need Symmetric Shaping & Wrinkles Remove services</p>
+<b> PHOTO EDITING AGENCY:</b>
+<p>On a daily basis, several photo editing companies use our services. All forms of photo editing, including Symmetric Shaping & Wrinkles Remove correction, are required.</p>
+<b> PROFESSIONAL PHOTO EDITOR:</b>
+<p>Professional photo editors will undoubtedly want Symmetric Shaping & Wrinkles Remove services for a variety of reasons. Services for the neck joints can save a ton of time and effort.</p>
+<b> PROFESSIONAL PHOTOGRAPHERS :</b>
+<p>A professional photographer requires absolute perfection. They are unable to offer any justifications. A professional photographer must offer Symmetric Shaping & Wrinkles Remove or ghost mannequin service if they want to deliver exceptional customer service and satisfy clients. Therefore, they can undoubtedly attempt our Symmetric Shaping & Wrinkles Remove service.</p>
+        </div>
       </div>
     </div>
   );

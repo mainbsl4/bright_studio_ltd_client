@@ -1,10 +1,11 @@
 import ReactCompareImage from "react-compare-image";
 import "../../../assets/css/beforeafter.css";
 
-const beforeImage = 'https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704369/Zen_Bl%C3%A5b%C3%A4r_3_ikhy7l.jpg'
+const beforeImage =
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704369/Zen_Bl%C3%A5b%C3%A4r_3_ikhy7l.jpg";
 
-const afterImage = 'https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704369/Zen_Bl%C3%A5b%C3%A4r_3_a5r3tb.jpg'
-
+const afterImage =
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704369/Zen_Bl%C3%A5b%C3%A4r_3_a5r3tb.jpg";
 
 export default function ImageManipulation() {
   return (
@@ -24,20 +25,14 @@ export default function ImageManipulation() {
       </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          Image manipulation is a kind of art which is actually altering a photo
+          for expressing the necessity of a person.This is another process that
+          is related to the photo editing.This is applied for artistic reason
+          and also for deceitfulness.This also helps in resizing photos.There
+          are different applications for doing this and adobe photoshop is very
+          popular among them.
         </p>
       </div>
     </div>
-  )
+  );
 }

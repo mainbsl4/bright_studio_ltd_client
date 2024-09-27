@@ -23,21 +23,31 @@ export default function PhotoRestoration() {
         {/* <p className=" text-justify lg:px-3">
       {TextBody}
     </p> */}
-        <p className=" text-justify lg:px-3">
+        <div className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
-        </p>
+          <p>
+            360-item photography can undoubtedly result in increased profits and
+            advantages for your e-commerce organization when the aforementioned
+            factors are taken into account. It would be best to board at this
+            point.
+            <br />
+            So if you need 360-degree image editing, Studio Click House can
+            assist you in providing it. Our skilled designers are knowledgeable
+            in all 360-degree image editing techniques. We charge a very low
+            price for this service as well.
+          </p>
+          <b>OUR 360-DEGREE IMAGE EDITING SERVICES INCLUDE:</b>
+          <ul>
+            <li>Photo stitching services.</li>
+            <li>HDR panorama enhancement.</li>
+            <li> 360 spherical panoramic views.</li>
+            <li>Inner/Outer sphere panorama.</li>
+            <li>Inner/Outer cylinder panoramic view.</li>
+            <li>360-degree virtual tour services.</li>
+            <li>Real estate panorama stitching services.</li>
+            <li>Image blending services. </li>
+          </ul>
+        </div>
       </div>
     </div>
   );

@@ -1,10 +1,10 @@
 import ReactCompareImage from "react-compare-image";
 import "../../../assets/css/beforeafter.css";
 
-const beforeImage = 'https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704366/23RG029643_bxbmqg.jpg'
-const afterImage = 'https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704365/23RG029643_kyu0sw.jpg'
-
-
+const beforeImage =
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704366/23RG029643_bxbmqg.jpg";
+const afterImage =
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704365/23RG029643_kyu0sw.jpg";
 
 export default function ColorCorrection() {
   return (
@@ -24,20 +24,23 @@ export default function ColorCorrection() {
       </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          Making color correction in Photoshop is to understand how color works
+          with digital images. For doing this we have to make creative images
+          work with the adjustments in several scenarios. It has to be
+          remembered that we have to fix overall tonal and color problems in
+          images. The main purpose of Adobe Photoshop is to function as a
+          digital darkroom in which images can be modified, corrected and
+          enhanced. Photoshop color correction service includes using of
+          channels and histograms for identifying problem areas. Applying
+          adjustments like Curves and White Balance. Making edits which changes
+          the entire effect of the image. New user’s faces a difficult time
+          while correcting color or enhancing images. The main purpose of color
+          correction is to make the image look better. For color correction need
+          to create multiple clipping path for better color separation. In most
+          cases they move far away from the target while fixing the images.
+          Given below are some guidelines to get started
         </p>
       </div>
     </div>
-  )
+  );
 }

@@ -25,18 +25,13 @@ export default function ModelPhotoLiquifyRetouching() {
     </p> */}
         <p className=" text-justify lg:px-3">
           {/* {TextBody} */}
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae
-          nihil, facilis dicta voluptates doloribus accusantium ad modi iusto
-          expedita repellendus voluptate vel, corrupti temporibus, cum quae
-          saepe consequuntur esse? Ut reiciendis inventore quos similique!
-          Laboriosam nulla ab obcaecati non molestias, accusantium atque beatae
-          officiis adipisci consequatur cum voluptatum alias, quidem voluptates
-          omnis praesentium error nostrum saepe soluta tempore voluptatem
-          dolorem ut. Nihil doloremque repudiandae obcaecati reprehenderit
-          assumenda quia ut modi delectus exercitationem dolores aspernatur,
-          velit qui vel ratione aliquid molestiae libero impedit ad blanditiis
-          quas laboriosam sit repellendus. Laboriosam inventore numquam mollitia
-          fugiat tenetur quasi nemo natus sunt illo quas!
+          High-End Model Photo Liquefy Retouch is an excellent technique of
+          image manipulation that helps you to touch specific undesirable
+          factors into your image. It gives your Model images a fresh, nice, and
+          creative look. Photoshop Retouching Service provides us with some
+          benefits. Removing unwanted objects from a photo, Adding a suitable
+          object to a photo, Making a creative look of the photo frame,
+          restoring the images for the future, and processing image manipulation
         </p>
       </div>
     </div>
