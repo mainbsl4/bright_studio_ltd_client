@@ -15,6 +15,26 @@ import { Icon } from "@iconify/react/dist/iconify.js";
 export default function Pricing() {
   return (
     <div className=" container mx-auto mt-10">
+      <div className="flex flex-col justify-center items-center mt-10">
+        <p>
+          WE OFFER PROFESSIONAL PHOTO EDITING AND RETOUCHING SERVICES IN A QUICK
+          TIME
+        </p>
+        <h3>PRICING AND COMPLEXITY</h3>
+      </div>
+      <p className="mb-10">
+        The complexity of the object to be isolated and any further processing
+        affects the cost per image. Bright Studio Ltd categorizes photographs
+        into one of a few groups in order to determine the final cost of a
+        service. Depending on the service you require, the complexity of the
+        photographs, and the number you have, the cost of the services we
+        provide vary from job to project. To give you an idea, our Photoshop
+        clipping path prices start at €0.50 per image, and we provide
+        substantial discounts for large orders. Upon examining your projects, we
+        prefer to present you with reasonable costs if you require any more
+        services or more. Bulk Images?
+      </p>
+
       <Box
         // className="grid lg:grid-cols-4 gap-4 md:grid-cols-3"
         sx={{
@@ -36,37 +56,102 @@ export default function Pricing() {
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              Clipping Path
+
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+              >
+                Clipping Path
+                <span>$0.50</span>
+              </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              Image Masking
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+              >
+                Image Masking
+                <span>$1.50</span>
+              </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              360 Image
+              {/* 360 Image */}
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+              >
+                360 Image
+                <span>$1.00</span>
+              </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              Shadow Making
+              {/* Shadow Making */}
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  Shadow Making
+                  <span>$2.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              E-commerce Image
+              {/* E-commerce Image */}
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  E-commerce Image
+                  <span>$1.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              Neck Join/Ghost Mannequin
+              {/* Neck Join/Ghost Mannequin */}
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  Neck Join/Ghost Mannequin
+                  <span>$2.00</span>
+                </ListItemDecorator>
             </ListItem>
             <hr />
             <ListItem>
@@ -319,7 +404,6 @@ export default function Pricing() {
               </ListItemDecorator>
               Bulk Offer
             </ListItem>
-           
           </List>
           <Divider inset="none" />
           <CardActions>
