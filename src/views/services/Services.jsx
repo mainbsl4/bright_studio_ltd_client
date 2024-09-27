@@ -75,19 +75,19 @@ const MultipleClippingPathafterImage =
   "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704371/000709544FW20_4327_C_COMBO_S1X1_twcyvt.jpg";
 
 const PattanChingebeforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704371/Vector_Work_1_wo7xnt.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1727410650/100072963_w89k2b.jpg";
 const PattanChingeafterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704372/Vector_Work_1_s0w3zq.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1727410649/100072963_acm9b6.jpg";
 
 const ServRastertoVectorConversionicesbeforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704371/Vector_Work_1_wo7xnt.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1727410601/Vector_Work_1_owpgt3.jpg";
 const ServRastertoVectorConversionicesafterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704372/Vector_Work_1_s0w3zq.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1727410602/Vector_Work_1_zz7hvb.jpg";
 
 const RealEstatePhotoEditingRetouchingServicesbeforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704371/Vector_Work_1_wo7xnt.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704620/IMG_2993_rk5pwo.jpg";
 const RealEstatePhotoEditingRetouchingServicesafterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704372/Vector_Work_1_s0w3zq.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704626/IMG_2993_v7yqpk.jpg";
 
 const D360PackshotRetouchingbeforeImage =
   "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704620/IMG_2993_rk5pwo.jpg";

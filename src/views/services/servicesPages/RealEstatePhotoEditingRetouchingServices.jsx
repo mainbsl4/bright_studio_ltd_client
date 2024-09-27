@@ -1,10 +1,10 @@
 import ReactCompareImage from "react-compare-image";
 import "../../../assets/css/beforeafter.css";
 const beforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704371/Vector_Work_1_wo7xnt.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704620/IMG_2993_rk5pwo.jpg";
 
 const afterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704372/Vector_Work_1_s0w3zq.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704626/IMG_2993_v7yqpk.jpg";
 
 export default function RealEstatePhotoEditingRetouchingServices() {
   return (

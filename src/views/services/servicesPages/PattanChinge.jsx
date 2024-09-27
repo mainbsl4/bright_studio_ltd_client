@@ -2,10 +2,10 @@ import ReactCompareImage from "react-compare-image";
 import "../../../assets/css/beforeafter.css";
 
 const beforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704371/Vector_Work_1_wo7xnt.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1727410650/100072963_w89k2b.jpg";
 
 const afterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704372/Vector_Work_1_s0w3zq.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1727410649/100072963_acm9b6.jpg";
 
 export default function PattanChinge() {
   return (
