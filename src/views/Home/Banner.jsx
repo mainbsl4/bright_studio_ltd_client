@@ -30,7 +30,7 @@ export default function Banner() {
         >
           Try free with quote
         </Button>
-    
+
         <video autoPlay muted loop>
           <source
             src="https://res.cloudinary.com/dqkd7vayw/video/upload/v1722704873/Sequence_01_ktvckk.mp4"
