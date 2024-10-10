@@ -15,7 +15,7 @@ export default function Banner() {
   return (
     <>
       <div className="relative w-full h-[92vh] bg-blue-300">
-        <p className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-4xl text-white">PROFESSIONAL PHOTO EDITING AND RETOUCHING SERVICES</p>
+        <p className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[50px] text-white">PROFESSIONAL PHOTO EDITING AND RETOUCHING SERVICES</p>
       <video autoPlay muted loop>
         <source
           src="https://res.cloudinary.com/dqkd7vayw/video/upload/v1722704873/Sequence_01_ktvckk.mp4"
