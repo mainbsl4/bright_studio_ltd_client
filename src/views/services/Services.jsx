@@ -107,7 +107,7 @@ const data = [
     to: "/services/cutouts",
     title: "CUT OUTS",
     description:
-      "Professional Cut-outs service, from simple cut-outs to advanced clipping tasks, Studio Click House is a pioneer in this type of service.",
+      "Professional Cut-outs service, from simple cut-outs to advanced clipping tasks, Bright Studio is a pioneer in this type of service.",
   },
   {
     // id: 0,

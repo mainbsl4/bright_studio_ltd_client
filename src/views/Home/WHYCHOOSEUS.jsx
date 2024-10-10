@@ -19,7 +19,7 @@ export default function WHYCHOOSEUS() {
         BEST IMAGE EDITING SERVICE PROVIDER COMPANY WITH AN EXCELLENT TRACK RECORD
         </p>
         <h3>WHY CHOOSE US</h3>
-        <p>We are experienced in providing all kinds of image editing services like Clipping Path, Background Removal, Image Enhancement, Image Masking, Image Manipulation, Photo Retouching, Neck Joint, Color Correction, Shadow Creation, etc. From Studio Click House we always give priority to our clients. Our goal is to help our clients through our services. Our services come with the following things.</p>
+        <p>We are experienced in providing all kinds of image editing services like Clipping Path, Background Removal, Image Enhancement, Image Masking, Image Manipulation, Photo Retouching, Neck Joint, Color Correction, Shadow Creation, etc. From Bright Studio we always give priority to our clients. Our goal is to help our clients through our services. Our services come with the following things.</p>
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-4 mt-5">
         <div>

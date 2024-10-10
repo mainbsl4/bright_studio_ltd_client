@@ -31,7 +31,7 @@ export default function PhotoRestoration() {
             factors are taken into account. It would be best to board at this
             point.
             <br />
-            So if you need 360-degree image editing, Studio Click House can
+            So if you need 360-degree image editing, Bright Studio can
             assist you in providing it. Our skilled designers are knowledgeable
             in all 360-degree image editing techniques. We charge a very low
             price for this service as well.

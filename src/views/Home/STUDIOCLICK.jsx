@@ -5,7 +5,7 @@ export default function STUDIOCLICK() {
     <div className="container mx-auto my-10">
       <div className="lg:px-12 py-5 flex justify-center items-center flex-col uppercase">
         <p>
-          Studio Click House is one of the best image background remove service
+          Bright Studio House is one of the best image background remove service
           provider.
         </p>
         <h3>
