@@ -16,7 +16,7 @@ export default function Banner() {
   return (
     <>
       <div className="relative w-full h-[92vh]">
-        <p className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[50px] text-white [text-shadow:_0_2px_4px_rgb(99_102_241_/_0.8)] leading-snug font-manrope font-extrabold">
+        <p className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[55px] text-white [text-shadow:_0_2px_4px_#34495e] leading-snug font-manrope font-extrabold text-center">
           PROFESSIONAL PHOTO EDITING AND RETOUCHING SERVICES
         </p>
         <Button
