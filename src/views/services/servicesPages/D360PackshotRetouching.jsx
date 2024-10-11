@@ -3,10 +3,10 @@ import ReactCompareImage from "react-compare-image";
 import "../../../assets/css/beforeafter.css";
 
 const beforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704362/Untitled-1_0020_PTX_4782_h5jhew.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1728623248/360_pjq3u1.jpg";
 
 const afterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704359/Untitled-1_0020_PTX_4782_ihjvfw.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1728623249/360_ux6ie0.jpg";
 
 export default function D360PackshotRetouching() {
   return (

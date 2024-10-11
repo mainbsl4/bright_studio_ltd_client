@@ -3,7 +3,7 @@ export default function INTRODUCE_OURSELVES() {
   return (
     <div className="mx-auto container grid lg:grid-cols-2 items-center md:grid-cols-1">
         <div>
-            <img src="https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704359/Untitled-1_0020_PTX_4782_ihjvfw.jpg" alt="" />
+            <img src="https://res.cloudinary.com/dqkd7vayw/image/upload/v1728623212/0297_wk2jvy.png" alt="" />
         </div>
         <div>
             <h4>LET’S INTRODUCE OURSELVES</h4>

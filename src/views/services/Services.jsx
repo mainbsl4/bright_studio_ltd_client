@@ -90,9 +90,9 @@ const RealEstatePhotoEditingRetouchingServicesafterImage =
   "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704626/IMG_2993_v7yqpk.jpg";
 
 const D360PackshotRetouchingbeforeImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704620/IMG_2993_rk5pwo.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1728623248/360_pjq3u1.jpg";
 const D360PackshotRetouchingafterImage =
-  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704626/IMG_2993_v7yqpk.jpg";
+  "https://res.cloudinary.com/dqkd7vayw/image/upload/v1728623249/360_ux6ie0.jpg";
 
 const PhotoRestorationbeforeImage =
   "https://res.cloudinary.com/dqkd7vayw/image/upload/v1722704373/IMG_2495_qyvhlw.jpg";
