@@ -114,10 +114,10 @@ export default function Pricing() {
                   justifyContent: "space-between",
                   width: "100%",
                 }}
-                >
-                  Shadow Making
-                  <span>$2.00</span>
-                </ListItemDecorator>
+              >
+                Shadow Making
+                <span>$2.00</span>
+              </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
@@ -131,10 +131,10 @@ export default function Pricing() {
                   justifyContent: "space-between",
                   width: "100%",
                 }}
-                >
-                  E-commerce Image
-                  <span>$1.00</span>
-                </ListItemDecorator>
+              >
+                E-commerce Image
+                <span>$1.00</span>
+              </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
@@ -148,10 +148,10 @@ export default function Pricing() {
                   justifyContent: "space-between",
                   width: "100%",
                 }}
-                >
-                  Neck Join/Ghost Mannequin
-                  <span>$2.00</span>
-                </ListItemDecorator>
+              >
+                Neck Join/Ghost Mannequin
+                <span>$2.00</span>
+              </ListItemDecorator>
             </ListItem>
             <hr />
             <ListItem>
@@ -225,55 +225,153 @@ export default function Pricing() {
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              Image Retouch
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+              >
+                Image Retouch
+                <span>$1.00</span>
+              </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+                
+                <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
               Creative Retouch
+                <span>$2.50</span>
+
+                </ListItemDecorator>
+
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
-              High-end Retouch
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  High-end Retouch
+                  <span>$3.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
               Image Manipulation
+              <span>$5.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  
               Color Correction
+              <span>$1.50</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  
               Color Change
+              <span>$1.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Pattern Change
+              <span>$5.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Real Estate Photo
+              <span>$4.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Old Photo Restoration
+              <span>$10.00</span>
+                </ListItemDecorator>
             </ListItem>
             <hr />
             <ListItem>
@@ -341,31 +439,103 @@ export default function Pricing() {
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  
               Raster to Vector
+              <span>$5.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Plan Drawing
+              <span>$20.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
+              Logo Dedign
+              <span>$5.00</span>
+                </ListItemDecorator>
+            </ListItem>
+            <ListItem>
+              <ListItemDecorator>
+                <Icon icon="material-symbols-light:check" />
+              </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Drawing of product
+              <span>$5.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Advertising Design
+              <span>$10.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Illustration
+              <span>$20.00</span>
+                </ListItemDecorator>
             </ListItem>
             <hr />
             <ListItem>
@@ -433,31 +603,86 @@ export default function Pricing() {
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Book & Magazine
+              <span>$99.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Brochures
+              <span>$50.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               Language conversions of catalogs
+              <span>$50.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+                  
               Language conversions of newsletters
+              <span>$8.00</span>
+                </ListItemDecorator>
             </ListItem>
             <ListItem>
               <ListItemDecorator>
                 <Icon icon="material-symbols-light:check" />
               </ListItemDecorator>
+              <ListItemDecorator
+                sx={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  width: "100%",
+                }}
+                >
+
               HTML Banner
+              <span>$10.00</span>
+                </ListItemDecorator>
             </ListItem>
             <hr />
             <ListItem>
