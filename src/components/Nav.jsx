@@ -19,25 +19,16 @@ const style = {
   top: "50%",
   left: "50%",
   transform: "translate(-50%, -50%)",
-  width: 800,
-  height: 600,
-  overflow: "auto",
+  width: { xs: "92vw", sm: "88vw", md: 900 },
+  maxHeight: "85vh",
+  overflowY: "auto",
   outline: "none",
   bgcolor: "background.paper",
-  border: "2px solid #000",
+  border: "1px solid",
+  borderColor: "divider",
+  borderRadius: 3,
   boxShadow: 24,
-  p: 4,
-  display: "flex",
-  alignItems: "center",
-  justifyContent: "space-around",
-  flexWrap: "wrap",
-  "& > :not(style)": {
-    m: 1,
-    width: 200,
-    height: 200,
-  },
-  // overflowY Scroll 
-  // overflowY: "scroll",
+  p: { xs: 2, md: 3 },
 };
 
 // const pages = ["Home", "About", "Contact"];
@@ -171,7 +162,6 @@ const timeZones = [
   { label: "Dublin, Ireland", timeZone: "Europe/Dublin" },
   { label: "Gibraltar", timeZone: "Europe/Gibraltar" },
   { label: "Riga, Latvia", timeZone: "Europe/Riga" },
-  { label: "Helsinki, Finland", timeZone: "Europe/Helsinki" },
   { label: "Reykjavik, Iceland", timeZone: "Atlantic/Reykjavik" },
   { label: "Canberra, Australia", timeZone: "Australia/Canberra" },
   { label: "Hobart, Australia", timeZone: "Australia/Hobart" },
@@ -415,16 +405,59 @@ export default function Nav() {
       <Modal
         open={open}
         onClose={handleClose}
-        aria-labelledby="modal-modal-title"
-        aria-describedby="modal-modal-description"
+        aria-labelledby="world-clock-title"
+        aria-describedby="world-clock-description"
       >
         <Box sx={style}>
-        {timeZones.map(({ label }) => (
-        <Paper key={label} elevation={3} sx={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", margin: 1 }}>
-          <p>{label}</p>
-          <p>{times[label]}</p>
-        </Paper>
-      ))}
+          <Typography id="world-clock-title" variant="h5" fontWeight={700} mb={0.5}>
+            World Clock
+          </Typography>
+          <Typography id="world-clock-description" variant="body2" color="text.secondary" mb={2}>
+            Live times across major cities
+          </Typography>
+
+          <Box
+            sx={{
+              display: "grid",
+              gridTemplateColumns: {
+                xs: "1fr",
+                sm: "repeat(2, minmax(0, 1fr))",
+                md: "repeat(3, minmax(0, 1fr))",
+                lg: "repeat(4, minmax(0, 1fr))",
+              },
+              gap: 1.5,
+            }}
+          >
+            {timeZones.map(({ label }) => (
+              <Paper
+                key={label}
+                elevation={0}
+                sx={{
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "center",
+                  p: 2,
+                  minHeight: 110,
+                  borderRadius: 2,
+                  border: "1px solid",
+                  borderColor: "divider",
+                  bgcolor: "#fff",
+                }}
+              >
+                <Typography variant="subtitle2" color="text.secondary">
+                  {label}
+                </Typography>
+                <Typography
+                  variant="h6"
+                  fontFamily="monospace"
+                  fontWeight={700}
+                  letterSpacing={0.5}
+                >
+                  {times[label]}
+                </Typography>
+              </Paper>
+            ))}
+          </Box>
         </Box>
       </Modal>
     </div>

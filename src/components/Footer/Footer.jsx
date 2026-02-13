@@ -19,25 +19,30 @@ export default function Footer() {
               </h2>
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
-                  <a href="https://flowbite.com/" className="hover:underline">
+                  <a href="/" className="hover:underline">
                     Home
                   </a>
                 </li>
                 <li className="mb-4">
-                  <a href="https://flowbite.com/" className="hover:underline">
+                  <a href="/about" className="hover:underline">
                     About
                   </a>
                 </li>
                 <li className="mb-4">
-                  <a href="https://flowbite.com/" className="hover:underline">
+                  <a href="/services" className="hover:underline">
                     Services
                   </a>
                 </li>
                 <li className="mb-4">
+                  <a href="/contact" className="hover:underline">
+                    Contact
+                  </a>
+                </li>
+                {/* <li className="mb-4">
                   <a href="https://flowbite.com/" className="hover:underline">
                     Home
                   </a>
-                </li>
+                </li> */}
                
               </ul>
             </div>
