@@ -48,7 +48,7 @@ const About = () => {
                     Graphich Design
                     <Slider
                       aria-label="Temperature"
-                      defaultValue={80}
+                      defaultValue={100}
                       getAriaValueText={valuetext}
                       valueLabelDisplay="auto"
                       shiftStep={30}
@@ -62,7 +62,7 @@ const About = () => {
                     Web Development
                     <Slider
                       aria-label="Temperature"
-                      defaultValue={80}
+                      defaultValue={100}
                       getAriaValueText={valuetext}
                       valueLabelDisplay="auto"
                       shiftStep={30}
@@ -76,7 +76,7 @@ const About = () => {
                     Digital Marketing
                     <Slider
                       aria-label="Temperature"
-                      defaultValue={80}
+                      defaultValue={100}
                       getAriaValueText={valuetext}
                       valueLabelDisplay="auto"
                       shiftStep={30}
@@ -90,7 +90,7 @@ const About = () => {
                     Video
                     <Slider
                       aria-label="Temperature"
-                      defaultValue={80}
+                      defaultValue={100}
                       getAriaValueText={valuetext}
                       valueLabelDisplay="auto"
                       shiftStep={30}
@@ -104,7 +104,7 @@ const About = () => {
                     3D
                     <Slider
                       aria-label="Temperature"
-                      defaultValue={80}
+                      defaultValue={100}
                       getAriaValueText={valuetext}
                       valueLabelDisplay="auto"
                       shiftStep={30}
